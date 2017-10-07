@@ -17,7 +17,7 @@ check the * Extended-Kalman-Filter-Project * folder with readme.md with detailed
 ## Test Result
 Based on the dataset 1 result, the error graph is shown below:
 
-![result.png](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![result.png](https://github.com/wenkairen/CarND-Extended-Kalman-Filter-Project/blob/master/CarND-Extended-Kalman-Filter-Project/result.png)
 
 
 
