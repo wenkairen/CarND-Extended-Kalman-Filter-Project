@@ -16,5 +16,6 @@ check the * Extended-Kalman-Filter-Project * folder with readme.md with detailed
   
 ## Test Result
 Based on the dataset 1 result, the error graph is shown below:
-![Alt text](http://CarND-Extended-Kalman-Filter-Project/CarND-Extended-Kalman-Filter-Project/result.png "Dataset 1 result")
-CarND-Extended-Kalman-Filter-Project/CarND-Extended-Kalman-Filter-Project/result.png
+
+![result.png](http://CarND-Extended-Kalman-Filter-Project/CarND-Extended-Kalman-Filter-Project/result.png "Dataset 1 result")
+
