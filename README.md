@@ -2,10 +2,10 @@
 
 This Project is the second term of Udacity Self-driving nano-degree project, the goal is to apply Extended Kalman Filter to fuse data from LIDAR and Radar sensors of a self driving car using C++. 
 
-The project is created in the CarND *Extended-Kalman-Filter-Project* folder.
+The project is created in the *CarND-Extended-Kalman-Filter-Project* folder.
 
 ## Run the code
-check the * Extended-Kalman-Filter-Project * folder with readme.md with detailed instruction to implement the code.
+check the -Extended-Kalman-Filter-Project- folder with readme.md with detailed instruction to implement the code.
 
 ## Content in Repository
 - scr directory with the project code:
