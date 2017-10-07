@@ -19,5 +19,6 @@ Based on the dataset 1 result, the error graph is shown below:
 
 ![result.png](https://github.com/wenkairen/CarND-Extended-Kalman-Filter-Project/blob/master/CarND-Extended-Kalman-Filter-Project/result.png)
 
+the output of the result satidfiy the RMSE <= [.11, .11, 0.52, 0.52] requirement.
 
 
